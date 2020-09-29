@@ -1,0 +1,9 @@
+.container{
+    display: block;
+    justify-content: center;
+    width: 70%;
+    margin: 20px;
+}
+.title{
+    text-align: center;
+}
